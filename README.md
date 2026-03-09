@@ -299,6 +299,10 @@ Contains the Power BI dashboard, including the data model, DAX calculations, and
 
 Provides a detailed written explanation of the analysis and insights.
 
+**Images**
+
+Provides screenshorts of dashboards of the analysis.
+
 **README**
 
 Project documentation describing the methodology, findings, and recommendations.
