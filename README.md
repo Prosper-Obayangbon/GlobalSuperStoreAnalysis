@@ -285,6 +285,7 @@ GlobalSuperStoreAnalysis
 │
 ├── D3424757_Obayangbon_Prosper.pbix
 ├── D3424757_Obayangbon_Prosper.pdf
+├── Images
 └── README.md
 ```
 
