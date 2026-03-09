@@ -355,10 +355,3 @@ Data Analyst specialising in:
 
 GitHub
 [https://github.com/Prosper-Obayangbon](https://github.com/Prosper-Obayangbon)
-
-
-If you want, I can also show you **how to upgrade this README so it looks like a top-tier data analyst GitHub project**, including:
-
-* a **star schema diagram**
-* **dashboard screenshots**
-* a **portfolio-style layout that impresses recruiters in under 10 seconds**.
